@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am an tech enthusiast likes to learn new technologies, <br>specialize in unity game development using C#,<br>I am currently learning Java And C#,<br>completed MERN-Stack, <br>also know python, C, C++, MySQL,<br>also I have hands-on practice on Amazon Web Services Cloud (Storage, Compute, Network, etc)<br>Curiously Looking for job Roles as per my skills
+I am a technology enthusiast with a strong passion for learning and applying new technologies. I specialize in Unity game development using C#, with hands-on experience in building interactive applications. I am currently enhancing my skills in Java and advanced C# development.<br>
+
+I have completed full-stack development training in the MERN stack and possess working knowledge of Python, C, C++, and MySQL. Additionally, I have hands-on experience with Amazon Web Services (AWS), including core cloud services across compute, storage, and networking.<br>
+
+I am actively seeking entry-level or junior roles that align with my technical skill set, where I can contribute effectively while continuing to grow as a developer.<br>
 
 
 ## 🌐 Socials:
